@@ -1,0 +1,5 @@
+Jennyffer Elizalde, Análisis de datos simple
+numero de filas
+97
+numero de columnas
+80

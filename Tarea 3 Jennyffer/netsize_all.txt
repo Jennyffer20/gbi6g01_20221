@@ -1,0 +1,19 @@
+Jennyffer Elizalde, Analisis de datos con bucle for
+Filas de ./Saavedra2013/n1.txt son: 97.
+Columnas de ./Saavedra2013/n1.txt son: 80.
+Filas de ./Saavedra2013/n10.txt son: 14.
+Columnas de ./Saavedra2013/n10.txt son: 20.
+Filas de ./Saavedra2013/n11.txt son: 270.
+Columnas de ./Saavedra2013/n11.txt son: 91.
+Filas de ./Saavedra2013/n12.txt son: 7.
+Columnas de ./Saavedra2013/n12.txt son: 72.
+Filas de ./Saavedra2013/n13.txt son: 61.
+Columnas de ./Saavedra2013/n13.txt son: 17.
+Filas de ./Saavedra2013/n14.txt son: 35.
+Columnas de ./Saavedra2013/n14.txt son: 15.
+Filas de ./Saavedra2013/n15.txt son: 38.
+Columnas de ./Saavedra2013/n15.txt son: 11.
+Filas de ./Saavedra2013/n16.txt son: 118.
+Columnas de ./Saavedra2013/n16.txt son: 24.
+Filas de ./Saavedra2013/n17.txt son: 76.
+Columnas de ./Saavedra2013/n17.txt son: 31.
